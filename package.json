@@ -20,7 +20,8 @@
     "testURL": "http://localhost/"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --forceExit",
+    "test-cov": "jest --coverage --runInBand --forceExit"
   },
   "repository": {
     "type": "git",
