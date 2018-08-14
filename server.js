@@ -1,3 +1,3 @@
 server = require('./library/server.js');
-port = 80;
+port = process.env.PORT || 3000;
 server(port);
