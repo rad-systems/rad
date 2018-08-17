@@ -13,6 +13,7 @@
     "express": "^4.16.3"
   },
   "devDependencies": {
+    "coveralls": "^3.0.2",
     "jest": "^23.4.2"
   },
   "jest": {
