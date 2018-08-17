@@ -5,7 +5,7 @@
 ### Installation Instructions
 #### Docker
 1. docker pull radsystem/rad
-1. cd /rad/
+1. docker run -it radsystem/rad bash
 1. npm start
 #### Git (requires node)
 1. git clone https://github.com/rad-systems/rad.git
