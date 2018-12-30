@@ -10,7 +10,8 @@
     "framework"
   ],
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "json-editor": "^0.7.28"
   },
   "devDependencies": {
     "coveralls": "^3.0.2",
