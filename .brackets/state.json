@@ -38,14 +38,17 @@
                 [
                     "/projects/.brackets-srv/"
                 ]
-            ]
+            ],
+            "code-folding.folds": {
+                "/projects/package-lock.json": {}
+            }
         }
     },
-    "nextHealthDataSendTime": 1546262331552,
+    "nextHealthDataSendTime": 1546422168825,
     "workingSetSortMethod": "cmd.sortWorkingSetByAdded",
     "auto-install-extensions": {},
     "extensionUpdateInfo": [],
-    "lastExtensionRegistryCheckTime": 1546260534288,
+    "lastExtensionRegistryCheckTime": 1546261613134,
     "lastInfoURLFetchTime": 1546260534668,
     "updateInfo": [
         {
@@ -1477,5 +1480,6 @@
         "/projects",
         "/projects/ide",
         "/samples/root/Getting Started"
-    ]
+    ],
+    "UUID": "35080500-4886-4956-a3f4-27ad0fac1d5a"
 }
