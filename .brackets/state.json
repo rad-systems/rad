@@ -1,6 +1,6 @@
 {
     "problems-panel": {
-        "visible": false
+        "visible": true
     },
     "welcomeProjects": [
         "/samples/root/Getting Started"
@@ -36,7 +36,8 @@
         "/projects/": {
             "project.treeState": [
                 [
-                    "/projects/.brackets-srv/"
+                    "/projects/.brackets-srv/",
+                    "/projects/scripts/"
                 ]
             ],
             "code-folding.folds": {
@@ -48,8 +49,8 @@
     "workingSetSortMethod": "cmd.sortWorkingSetByAdded",
     "auto-install-extensions": {},
     "extensionUpdateInfo": [],
-    "lastExtensionRegistryCheckTime": 1546261613134,
-    "lastInfoURLFetchTime": 1546260534668,
+    "lastExtensionRegistryCheckTime": 1546864986291,
+    "lastInfoURLFetchTime": 1546864986857,
     "updateInfo": [
         {
             "buildNumber": 17699,

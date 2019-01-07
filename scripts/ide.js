@@ -15,7 +15,8 @@ var options = {
 };
 brackets(server, options);
 
-server.listen(6800);
+// server.listen(6800);
+module.exports = server;
 
 console.log("Your application is availble at http://dock.custom.website");
 console.log("You can access Brackets on http://dock.custom.website/brackets/");
