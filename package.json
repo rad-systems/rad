@@ -10,12 +10,9 @@
     "framework"
   ],
   "dependencies": {
-    "express": "^4.16.3",
-    "greenlock-express": "^3.1.1",
-    "json-editor": "^0.7.28"
+    "greenlock-express": "^3.1.1"
   },
   "devDependencies": {
-    "brackets": "^0.5.8",
     "coveralls": "^3.0.2",
     "jest": "^23.6.0",
     "nodemon": "^1.18.9"
@@ -25,7 +22,6 @@
     "testURL": "http://localhost/"
   },
   "scripts": {
-    "ide": "brackets --proj-dir /rad --supp-dir /rad/.brackets-srv",
     "start": "nodemon server.js",
     "test": "jest --forceExit",
     "test-cov": "jest --coverage --runInBand --forceExit"
